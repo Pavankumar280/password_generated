@@ -1,7 +1,5 @@
 # Password Generator
 
-![Screenshot 2024-09-30 103709](https://github.com/user-attachments/assets/89bffd41-a9c0-47ba-85cf-b553ccec1bf4)
-
 
 
 
